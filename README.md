@@ -1,7 +1,7 @@
 # share-modale
 A minimal profile share page
 
-# Pre - requisites
+# Pre-requisites
 
 this project uses,
 
@@ -12,13 +12,13 @@ this project uses,
 - [TailwindCSS](https://tailwindcss.com/)
 
 
-# Running Locally,
+# Running Locally
 
 To run this project on live server, run
 
 `npm run start`
 
-# Build for deploy,
+# Build for deploy
 
 To build this file, run
 
